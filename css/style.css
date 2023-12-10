@@ -345,15 +345,8 @@ h6,
 }
 
 
-/*** Classes ***/
-.classes-item {
-    transition: .5s;
-}
-
-.classes-item:hover {
-    margin-top: -10px;
-}
-
+/*** Gallery ***/
+.thumbnail {margin-bottom:6px;}
 
 /*** Team ***/
 .team-item .team-text {
