@@ -494,3 +494,10 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+/* Whatsapp Icon Css */
+.back-to-top.WhatSapp {
+    left: 45px;
+    background-color: #25D366;
+    border: #25D366;
+}
